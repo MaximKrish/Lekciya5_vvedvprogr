@@ -1,0 +1,15 @@
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya5\exother\bin\Debug\net6.0\exother.exe
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya5\exother\bin\Debug\net6.0\exother.deps.json
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya5\exother\bin\Debug\net6.0\exother.runtimeconfig.json
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya5\exother\bin\Debug\net6.0\exother.dll
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya5\exother\bin\Debug\net6.0\exother.pdb
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya5\exother\obj\Debug\net6.0\exother.csproj.AssemblyReference.cache
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya5\exother\obj\Debug\net6.0\exother.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya5\exother\obj\Debug\net6.0\exother.AssemblyInfoInputs.cache
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya5\exother\obj\Debug\net6.0\exother.AssemblyInfo.cs
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya5\exother\obj\Debug\net6.0\exother.csproj.CoreCompileInputs.cache
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya5\exother\obj\Debug\net6.0\exother.dll
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya5\exother\obj\Debug\net6.0\refint\exother.dll
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya5\exother\obj\Debug\net6.0\exother.pdb
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya5\exother\obj\Debug\net6.0\exother.genruntimeconfig.cache
+C:\Users\User.DESKTOP-P0PUKOS\Desktop\обучение GeekBrains\Знакомство с языками программирования (лекции)\Lekcii\Lekciya5\exother\obj\Debug\net6.0\ref\exother.dll
